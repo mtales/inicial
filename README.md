@@ -1,2 +1,2 @@
 # inicial
-Início
+Início - Essa é a descrição do projeto
